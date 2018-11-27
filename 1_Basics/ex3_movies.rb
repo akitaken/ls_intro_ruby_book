@@ -1,3 +1,5 @@
+# Stores a list of movies with the year they came out
+
 movies = {
   heathers: 1988,
   pump_up_the_volume: 1990,
