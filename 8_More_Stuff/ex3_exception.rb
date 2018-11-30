@@ -1,0 +1,1 @@
+Exeception handling is how you prepare your program to deal with errors. If there is an error or exception in your program, you can use <rescue> to escape the error and do something else like move to the next part or print a useful error message.
